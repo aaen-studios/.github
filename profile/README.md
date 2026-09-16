@@ -49,8 +49,10 @@ optional.
 
 | repo | what it is |
 | --- | --- |
-| [kern-web](https://github.com/aaen-studios/kern-web) | the documentation hub and plugin registry behind kern.aaenz.no |
 | [galdr-web](https://github.com/aaen-studios/galdr-web) | the galdr landing page |
+
+kern's own documentation hub and plugin registry live with the personal
+account, at [ellipog/kern-web](https://github.com/ellipog/kern-web).
 
 ---
 
